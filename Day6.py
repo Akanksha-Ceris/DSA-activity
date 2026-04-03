@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # # x = []
 # # y = [1,2,3,4,5]
 # # z = [1,"Hello",3.14,True]
@@ -12,3 +13,6 @@ for i in my_array:
     if i < minVal:
         minVal = i
 print("lowest value",minVal)        
+=======
+
+>>>>>>> 63d667cd83f936dc703d9849a71dc3d53b76de1b
